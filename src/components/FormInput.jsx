@@ -1,10 +1,10 @@
 import React from "react";
 
 const FormInput = ({
-  label = "Name",
-  name = "name",
-  type = "text",
-  defaultValue = "Arvind Kumar",
+  label,
+  name,
+  type,
+  defaultValue,
 }) => {
   return (
     <div className="form-control">
