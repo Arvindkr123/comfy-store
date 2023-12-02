@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
+import { Header } from "../components";
 
 const Landing = () => {
   return (
-    <div>Landing</div>
-  )
-}
+    <div>
+    </div>
+  );
+};
 
-export default Landing
+export default Landing;
